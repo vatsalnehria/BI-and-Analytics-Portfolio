@@ -22,4 +22,5 @@ This HR data analysis dashboard provides key insights into an organization's hum
 ## Static Overview of HR Analytics Dashboard
 ![](https://github.com/vatsalnehria/HR_analytics_project/blob/main/HR%20Analytics%20Dashboard.jpg)
 
-### To interact with the Dashboard [Click Here](<iframe title="Human Resources Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9" frameborder="0" allowFullScreen="true"></iframe>)
+### To interact with the Dashboard 
+[Click Here]([http://example.com/](https://app.powerbi.com/view?r=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9))
