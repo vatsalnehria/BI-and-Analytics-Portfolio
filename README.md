@@ -20,7 +20,7 @@ This HR data analysis dashboard provides key insights into an organization's hum
 - This project demonstrates proficiency in data analysis, data visualization, and Power BI dashboard development.
 
 ## Static Overview of HR Analytics Dashboard
-![](HR Analytics Dashboard.jpg)
+![](HR_analytics_project/HR Analytics Dashboard.jpg)
 
 ### To interact with the Dashboard 
 [Click Here](https://app.powerbi.com/view?r=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9)
