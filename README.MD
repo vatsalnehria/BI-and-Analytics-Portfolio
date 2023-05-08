@@ -19,5 +19,5 @@ This HR data analysis dashboard provides key insights into an organization's hum
 - The dashboard provides an easy-to-understand overview of the organization's HR data, enabling stakeholders to make informed decisions related to recruitment, retention, and employee satisfaction.
 - This project demonstrates proficiency in data analysis, data visualization, and Power BI dashboard development.
 
-
-![This is a Static visual of the HR analytics Dashboard](https://drive.google.com/file/d/1cl2CdpwqQGzGDsEe-Xyp4U0zfIMApso5/view?usp=share_link)
+# Static Overview of HR Analytics Dashboard
+![](ithub.com/vatsalnehria/HR_analytics_project/blob/main/HR%20Analytics%20Dashboard.jpg)
