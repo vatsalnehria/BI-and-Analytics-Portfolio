@@ -1,5 +1,6 @@
 # Vatsal's Portfolio
 
+### As a data analyst, I believe that data is the key to unlocking valuable insights that can help organizations make informed decisions. That's why I have created this portfolio of data analytics project(s), where I showcase my skills in data analysis, data visualization, and dashboard development. Through these projects, I aim to provide stakeholders with a better understanding of their data, enabling them to make informed decisions that drive business success. The HR data analysis project in this portfolio demonstrates my ability to analyze complex data sets, identify key insights, and communicate those insights in an easy-to-understand manner. 
 
 ## HR analytics and Insights
 
