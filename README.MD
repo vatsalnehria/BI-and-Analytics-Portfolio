@@ -23,4 +23,4 @@ This HR data analysis dashboard provides key insights into an organization's hum
 ![](https://github.com/vatsalnehria/HR_analytics_project/blob/main/HR%20Analytics%20Dashboard.jpg)
 
 ### To interact with the Dashboard 
-[Click Here](https://app.powerbi.com/viewr=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9)
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9)
