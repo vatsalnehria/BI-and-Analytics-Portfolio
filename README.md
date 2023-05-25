@@ -59,4 +59,4 @@ By addressing these problem statements and providing data-driven insights, this 
 ![Demography SS](https://github.com/vatsalnehria/BI-and-Analytics-Portfolio/assets/87799981/7dc25ae8-9264-442b-9912-8bdcd326e4cf)
 
 ### To interact with the Dashboard 
-[Click Here]([https://app.powerbi.com/view?r=eyJrIjoiODQ3OTQ0YjEtOTEzYi00OGY3LWE3MjYtMmU3OGMxNGM2Zjc0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9](https://app.powerbi.com/view?r=eyJrIjoiODQ1ZTg3ZDYtMDcyYy00NWMxLWFjMjctOWU2MzM2NDAyODA0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9))
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODQ1ZTg3ZDYtMDcyYy00NWMxLWFjMjctOWU2MzM2NDAyODA0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9)
