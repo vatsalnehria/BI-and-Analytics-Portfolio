@@ -53,10 +53,15 @@ By addressing these problem statements and providing data-driven insights, this 
 
 ## **Static Overview of the Dashboard**
 **1.**
-![Overview SS](https://github.com/vatsalnehria/BI-and-Analytics-Portfolio/assets/87799981/1c962aab-5c2c-4898-8753-34f668769719)
+![Overview SS](https://github.com/vatsalnehria/BI-and-Analytics-Portfolio/assets/87799981/f45954c0-d250-4b44-95b0-1def683c8518)
 
 **2.**
 ![Demography SS](https://github.com/vatsalnehria/BI-and-Analytics-Portfolio/assets/87799981/7dc25ae8-9264-442b-9912-8bdcd326e4cf)
 
 ### To interact with the Dashboard 
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODQ1ZTg3ZDYtMDcyYy00NWMxLWFjMjctOWU2MzM2NDAyODA0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9)
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODQ1ZTg3ZDYtMDcyYy00NWMxLWFjMjctOWU2MzM2NDAyODA0IiwidCI6ImY5MzM0ZjY3LTgwYjgtNDg5YS05ZDMyLTk5MmJiOTk2MzY3NSJ9&pageName=ReportSectionf80a26385fa981a3cba2)
+
+**Please Note -** 
+
+- _The ATM Analysis dashboard includes multiple pages which you can access by using the interactive buttons preset on the Home Page or at the left hand side of the report._
+- _The Azure Map Visual does not work using embedded links. Please look at the screenshot provided above to reference the missing visual._
